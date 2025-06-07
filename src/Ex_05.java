@@ -18,19 +18,20 @@ public class Ex_05 {
 
         System.out.print("Enter a Mark: ");
         Integer mark = sc.nextInt();
+        Character Grade;
 
         if (mark >= 90 && mark <= 100)
-        { System.out.println("Grade = A"); }
+        { Grade = 'A'; }
         else if (mark >= 80 && mark < 90)
-        { System.out.println("Grade = B"); }
+        { Grade = 'B'; }
         else if (mark >= 70 && mark < 80)
-        { System.out.println("Grade = C"); }
+        { Grade = 'C'; }
         else if (mark >= 60 && mark < 70)
-        { System.out.println("Grade = D"); }
-        else if(mark >= 0 && mark < 60)
-        { System.out.println("Grade = F"); }
+        { Grade = 'D'; }
         else
-        { System.out.println("Enter Valid Mark."); }
+        { Grade = 'F'; }
+
+        System.out.println("Your grade is: " + Grade);
 
     }
 }
