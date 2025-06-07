@@ -33,5 +33,6 @@ public class Ex_05 {
 
         System.out.println("Your grade is: " + Grade);
 
+        sc.close();
     }
 }
