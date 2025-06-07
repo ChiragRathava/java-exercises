@@ -32,7 +32,5 @@ public class Ex_05 {
         else
         { System.out.println("Enter Valid Mark."); }
 
-        return;
-
     }
 }
