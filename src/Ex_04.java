@@ -37,5 +37,6 @@ public class Ex_04 {
         else
         { System.out.println("Not a palindrome"); }
 
+        sc.close();
     }
 }
