@@ -1,0 +1,2 @@
+Generate a detailed document summarizing the contents of a file before sharing it on a GitHub repository. End the document with a README.md file for the project.
+
