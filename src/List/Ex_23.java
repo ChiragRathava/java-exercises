@@ -1,4 +1,4 @@
-// Write a function to find the intersection of two lists.
+package List;// Write a function to find the intersection of two lists.
 
 import java.util.*;
 
