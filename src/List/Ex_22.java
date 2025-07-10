@@ -1,9 +1,7 @@
-// How do you iterate through a LinkedList?
+package List;// How do you iterate through a LinkedList?
 import java.util.*;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
-import java.util.List;
 
 public class Ex_22 {
     public static void main(String[] args) {
