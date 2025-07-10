@@ -1,4 +1,4 @@
-// How do you merge two sorted lists into one sorted list?
+package List;// How do you merge two sorted lists into one sorted list?
 
 import java.util.ArrayList;
 import java.util.Arrays;
