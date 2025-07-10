@@ -1,4 +1,4 @@
-// How do you find the most frequent element in a list?
+package List;// How do you find the most frequent element in a list?
 
 import java.util.*;
 
